@@ -1,0 +1,42 @@
+body {
+    background-color:darkcyan;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    display: inline-block;
+    width: 100px;
+    background-color: darkgrey;
+    border-radius: 12px;
+
+}
+
+h2 {
+    color: darkseagreen;
+    font-size: 300%;
+}
+
+.main {
+    border: 2px solid white;
+    margin: 5% 35%;
+    background-color: rgba(6, 56, 56, 0.884);
+    border-radius: 200px;
+    height: 350px;
+}
+
+button {
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(235, 206, 149);
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    font-size: 80px;
+    color: rgb(54, 78, 54);
+}
